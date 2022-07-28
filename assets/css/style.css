@@ -20,6 +20,20 @@ body {
     margin-bottom: 120px;
 }
 
+.custom-title-course {
+    width: 549px;
+    margin: auto;
+}
+
+.custom-title-para {
+    width: 646px;
+    margin: auto;
+}
+
+.custom-section-height {
+    margin-top: 10%;
+}
+
 .custom-title {
     font-size: 50px;
 }

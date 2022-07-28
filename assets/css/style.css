@@ -9,3 +9,12 @@ body {
 .custom-carousel {
     background-color: rgba(0, 0, 0, 0.6);
 }
+
+.custom-register {
+    margin-top: 5%;
+}
+
+.custom-ready {
+    width: 100%; 
+    height: 250px;
+}

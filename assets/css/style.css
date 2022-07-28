@@ -5,3 +5,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.custom-carousel {
+    background-color: rgba(0, 0, 0, 0.6);
+}

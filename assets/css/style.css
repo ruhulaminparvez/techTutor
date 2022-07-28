@@ -38,6 +38,10 @@ body {
     font-size: 50px;
 }
 
+.bg-set {
+    background-color: #F4FAFD;
+}
+
 .custom-register {
     margin-top: 10%;
     margin-bottom: 5%;

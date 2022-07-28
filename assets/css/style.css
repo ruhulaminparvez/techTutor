@@ -30,6 +30,14 @@ body {
     margin: auto;
 }
 
+.custom-title-meet {
+    width: 420px;
+}
+
+.custom-meet-para {
+    width: 486px;
+}
+
 .custom-section-height {
     margin-top: 6%;
 }
@@ -43,7 +51,7 @@ body {
 }
 
 .custom-register {
-    margin-top: 10%;
+    margin-top: 7%;
     margin-bottom: 5%;
 }
 

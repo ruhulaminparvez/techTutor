@@ -6,8 +6,12 @@ body {
     padding: 0;
 }
 
+.bg-custom {
+    opacity: 0.2;
+}
+
 .custom-carousel {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 .custom-register {

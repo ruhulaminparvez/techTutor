@@ -20,16 +20,6 @@ body {
     margin-bottom: 120px;
 }
 
-.custom-title-course {
-    width: 549px;
-    margin: auto;
-}
-
-.custom-title-para {
-    width: 646px;
-    margin: auto;
-}
-
 .custom-title-meet {
     width: 420px;
 }
@@ -80,4 +70,66 @@ footer {
 
 .custom-icon {
     margin-top: 10px;
+}
+
+@media screen and (max-width: 576px) {
+    .body {
+        margin: 0%;
+        overflow-x: hidden;
+    }
+    .custom-h {
+        width: 90px;
+        margin: auto;
+        margin-bottom: 0px;
+    }
+
+    .custom-title {
+        font-size: 12px;
+    }
+
+    .custom-ready {
+        width: 100%; 
+        height: 400px;
+        margin-top: 5%;
+        margin-bottom: 5%;
+
+    }
+
+}
+
+@media screen and (min-width: 577px) and (max-width: 992px) {
+    .custom-h {
+        width: 232px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+
+    .custom-title {
+        font-size: 24px;
+    }
+
+    .custom-p {
+        font-size: 12px;
+    }
+
+    .custom-ex > h2 {
+        font-size: 16px;
+    }
+
+    .custom-ex > p {
+        font-size: 10px;
+    }
+
+    .custom-ex-two > h2 {
+        font-size: 14px;
+    }
+
+    .custom-ex-two > p {
+        font-size: 12px;
+    }
+
+    .custom-ex-btn {
+        font-size: 12px;
+    }
+        
 }
